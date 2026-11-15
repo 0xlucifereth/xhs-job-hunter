@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Xiaohongshu job hunter",
+    "description": "Collect job posts from your logged-in Xiaohongshu session, filter them by region and role, and write them to a table or CSV/Excel."
+  }
+}
