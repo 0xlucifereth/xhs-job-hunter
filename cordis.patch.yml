@@ -1,0 +1,20 @@
+- insert:
+    - id: xhs-job-hunter
+      name: xhs-job-hunter
+      config:
+        cdpUrl: http://127.0.0.1:9222
+        timezone: Asia/Shanghai
+        freshnessHours: 24
+        hardMaxNotes: 50
+        dataTable:
+          enabled: true
+          workbookId: xhs-jobs
+          workbookName: 小红书招聘笔记
+          sheetName: 招聘笔记
+        export:
+          enabled: true
+          formats: [xlsx, csv]
+        safety:
+          minIntervalSeconds: 60
+          dedupeEnabled: true
+          seenWindowDays: 30

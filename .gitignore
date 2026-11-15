@@ -1,0 +1,5 @@
+node_modules/
+.pnpm-store/
+*.log
+.xhs-job-hunter/
+.DS_Store
