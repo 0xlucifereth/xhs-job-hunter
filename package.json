@@ -3,7 +3,15 @@
   "version": "0.1.0",
   "description": "Collect recent Xiaohongshu job posts into a table or spreadsheet.",
   "license": "MIT",
-  "author": "xhs-job-hunter contributors",
+  "author": "0xlucifereth",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xlucifereth/xhs-job-hunter.git"
+  },
+  "homepage": "https://github.com/0xlucifereth/xhs-job-hunter#readme",
+  "bugs": {
+    "url": "https://github.com/0xlucifereth/xhs-job-hunter/issues"
+  },
   "keywords": [
     "dsh",
     "dsh-plugin",
